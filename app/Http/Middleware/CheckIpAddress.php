@@ -10,6 +10,7 @@ class CheckIpAddress
     // List of valid IP addresses
     protected $whitelisted_ips = [
         '108.181.51.221',
+        '103.154.61.217'
         // ... other whitelisted IPs
     ];
 
